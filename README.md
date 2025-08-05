@@ -4,7 +4,7 @@ A full-stack web application for connecting service providers with customers. Th
 
 ## 🚀 Live Demo
 
-- **Frontend (Vercel)**: [https://serviceconnect-frontend.onrender.com/](https://serviceconnect-frontend.onrender.com/)
+- **Frontend (Vercel)**: [https://serviceconnect-frontend.onrender.com](https://serviceconnect-frontend.onrender.com/)
 - **Backend API (Render)**: [https://serviceconnect-backend.onrender.com](https://serviceconnect-backend.onrender.com)
 
 ## 📋 Description
