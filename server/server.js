@@ -15,7 +15,6 @@ const port = process.env.PORT || 3000;
 
 const allowedOrigins = [
     'http://localhost:5173',              // Vite local dev
-    'http://localhost:3000',              // React default local dev (CRA)
     'https://my-frontend.vercel.app'      // Deployed frontend
   ];
 

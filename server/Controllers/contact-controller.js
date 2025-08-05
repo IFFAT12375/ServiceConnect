@@ -1,5 +1,5 @@
 import express from 'express';
-import Contact from "../models/contact-model.js";
+import Contact from "../Models/contact-model.js";
 
 export const contactForm = async (req, res) => {
     try {

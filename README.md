@@ -5,7 +5,7 @@ A full-stack web application for connecting service providers with customers. Th
 ## 🚀 Live Demo
 
 - **Frontend (Vercel)**: [https://my-frontend.vercel.app](https://my-frontend.vercel.app)
-- **Backend API (Render)**: [https://your-backend-api.onrender.com](https://your-backend-api.onrender.com)
+- **Backend API (Render)**: [https://serviceconnect-backend.onrender.com](https://serviceconnect-backend.onrender.com)
 
 ## 📋 Description
 
@@ -112,7 +112,7 @@ Create a `.env` file in the `client` directory with the following variables:
 # API Configuration
 VITE_API_URL=http://localhost:3000/api
 # OR for production:
-# VITE_API_URL=https://your-backend-api.onrender.com/api
+# VITE_API_URL=https://serviceconnect-backend.onrender.com
 
 # Frontend Configuration
 VITE_APP_NAME=ServiceConnect

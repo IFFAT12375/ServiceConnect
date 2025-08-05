@@ -1,5 +1,5 @@
-import User from "../models/user-model.js";
-import Contact from "../models/contact-model.js";
+import User from "../Models/user-model.js";
+import Contact from "../Models/contact-model.js";
 
 
 // *-------------------------------
