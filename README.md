@@ -7,6 +7,10 @@ A full-stack web application for connecting service providers with customers. Th
 - **Frontend (Vercel)**: [https://serviceconnect-frontend.onrender.com](https://serviceconnect-frontend.onrender.com/)
 - **Backend API (Render)**: [https://serviceconnect-backend.onrender.com](https://serviceconnect-backend.onrender.com)
 
+**Pictures**
+images/customer.png
+images/design.png
+
 ## 📋 Description
 
 ServiceConnect is a comprehensive service marketplace platform that enables users to browse, manage, and connect with various service providers. The application features user authentication, service listings, contact management, and an administrative dashboard for platform management.
