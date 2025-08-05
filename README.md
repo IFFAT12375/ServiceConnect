@@ -4,7 +4,7 @@ A full-stack web application for connecting service providers with customers. Th
 
 ## 🚀 Live Demo
 
-- **Frontend (Vercel)**: [https://my-frontend.vercel.app](https://my-frontend.vercel.app)
+- **Frontend (Vercel)**: [https://serviceconnect-frontend.onrender.com/](https://serviceconnect-frontend.onrender.com/)
 - **Backend API (Render)**: [https://serviceconnect-backend.onrender.com](https://serviceconnect-backend.onrender.com)
 
 ## 📋 Description
@@ -67,7 +67,7 @@ ServiceConnect is a comprehensive service marketplace platform that enables user
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ServiceConnect.git
+   git clone https://github.com/IFFAT12375/ServiceConnect.git
    cd ServiceConnect
    ```
 
@@ -94,9 +94,9 @@ PORT=3000
 NODE_ENV=development
 
 # Database Configuration
-MONGODB_URI=mongodb://localhost:27017/serviceconnect
+MONGODB_URI=mongodb://localhost:27017/projectName
 # OR for MongoDB Atlas:
-# MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/serviceconnect
+# MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/projectName
 
 # JWT Configuration
 JWT_SECRET_KEY=your_jwt_secret_key_here
@@ -201,10 +201,10 @@ ServiceConnect/
 
 ## 📞 Contact
 
-- **Contact Form**: [Contact Us](https://my-frontend.vercel.app/contact)
+- **Contact Form**: [Contact Us](https://serviceconnect-frontend.onrender.com/contact)
 - **GitHub**: [https://github.com/IFFAT12375](https://github.com/IFFAT12375)
-- **Linkdln**: https://www.linkedin.com/in/iffat-sattar-134b62182/
-- **Email**: iffatsattar6@gmail.com
+- **Linkdln**: [https://www.linkedin.com/in/iffat-sattar-134b62182/](https://www.linkedin.com/in/iffat-sattar-134b62182/)
+- **Email**: [iffatsattar6@gmail.com](iffatsattar6@gmail.com)
 
 ## 📄 License
 
